@@ -1,2 +1,1 @@
-# WebDev_Assignment1
-TuteDude Web Development course Assignment 1
+https://gunishgoyal21-collab.github.io/WebDev_Assignment1/
